@@ -1,0 +1,218 @@
+@media all and (max-width: 992px){
+	#slider_head .bx-wrapper .bx-pager, #slider_head .bx-wrapper .bx-controls-auto{
+		right: 115px;
+	}
+
+	.view{
+		padding-top: 0;
+	}
+
+	.view h2{
+		font-size: 30px;
+	}
+
+	.slide_person h3{
+		font-size: 30px;
+	}
+
+	.social-item{
+		margin-right: 8px;
+		margin-bottom: 40px;
+	}
+
+	.formRow input[type="submit"]{
+		display: block;
+		margin: 0 auto;
+	}	
+}
+
+@media all and (max-width: 767px){
+	*{
+		font-size: 14px;
+	}
+	
+	.navbar-brand > img{
+		padding-left: 30px;
+	}
+
+	.navbar-default {			
+		margin-bottom: 50px;				
+	}
+
+	#slider_head{
+		margin-bottom: 40px;
+	}
+
+	#slider_head .container{
+		padding-top: 40px;
+		height: 350px;
+	}
+
+	.common_btn{
+		padding: 13px 30px;
+	}
+
+	.hairline{
+		font-size: 40px;
+	}
+
+	#slider_head h2{
+		font-size: 35px;
+	}	
+
+	#wwdo span.light{	
+		font-size: 20px;
+	}
+
+	#wwdo span.bold{	
+		font-size: 35px;
+	}
+
+	#wwdo .common_btn{		
+		margin-top: 25px;
+	}
+
+	.wwdo_info header{
+		width: 20%;
+	}
+
+	#wwdo .container .row{
+		margin-bottom: 40px;
+	}
+
+	#wwdo .hairline{		
+		margin-bottom: 40px;
+	}
+
+	.view{
+		padding-top: 30%;
+	}
+	.view h2{
+		font-size: 20px;
+		margin: 10px;		
+	}
+
+	.view .common_after:after { 	       
+	    bottom: -7px;
+	    border-bottom: 1px solid #000;	    
+	}
+
+	.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover{
+		border-bottom: none;	
+	}
+	.navbar-default .navbar-nav > li > a:hover{
+		border-bottom: none;
+	}
+
+	#team{		
+		padding-bottom: 40px;
+	}
+
+	#clients .slide h3{
+		font-size: 25px;
+	}
+
+	.client_info, .client_images{
+		margin-bottom: 40px;
+	}	
+
+	.slide_person h3{
+		font-size: 30px;
+	}
+
+	.slide_person img{
+		width: 50%;
+		margin-left: 25%;
+	}
+
+	.slide_person .common_after:after {  
+	    width: 10%;        
+	    left: 45%;	    
+	}
+
+	#clients .hairline{		
+		margin: 20px 0;
+	}
+
+	#slider_head .bx-wrapper .bx-pager, #slider_head .bx-wrapper .bx-controls-auto {	    
+	    bottom: 20px;
+	    right: 115px;	    
+	}
+
+	#get_in_touch .hairline{
+		font-size: 40px;
+	}
+
+	.contacts_box .col-xs-2{
+		text-align: right;
+	}
+
+	.social-item{
+		margin-right: 6px;		
+	}
+
+	.check_btn{
+		display: block;
+		margin: 0 auto;
+	}
+
+	.info_check{
+		font-size: 20px;
+	}
+}
+
+@media all and (max-width: 599px){
+	.hairline{
+		font-size: 30px;
+	}
+
+	.view{
+		padding-top: 20%;
+	}
+	.view h2{
+		font-size: 15px;
+	}
+
+	.client_images {	    
+	    position: absolute;
+	    opacity: 0;
+	    margin-left: 9999px;	    
+	}
+}
+
+@media all and (max-width: 480px){
+	.common_btn{
+		padding: 10px 25px;
+	}
+	
+	#slider_head h2{
+		font-size: 20px;
+	}
+	#slider_head .bx-wrapper .bx-pager, #slider_head .bx-wrapper .bx-controls-auto{
+		right: 80px;
+	}
+
+	.slide_person img{
+		width: 100%;
+		margin-left: 0;
+	}
+	
+	.slide_person h3{
+		font-size: 15px;
+	}
+
+	#team{		
+		padding-bottom: 0;
+	}
+
+	#clients .col-xs-9 p{
+		display: none;
+	}
+
+	#get_in_touch .hairline{
+		font-size: 30px;
+	}	
+}
+
+
+
